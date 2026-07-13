@@ -30,7 +30,7 @@
 - 4K秒开  
 - 签到送流量  
 
-👉 https://666.飞兔.vip/index.html?register=h2WVgHTz
+👉 https://666.xn--h5qy75o.vip/#/register?code=wZDomyK1
 
 ---
 
