@@ -120,7 +120,7 @@ IEPL/IPLC 高性价比机场。
 
 注册链接：
 
-[三毛机场注册链接](https://a.smjcgw.com/#/register?code=YgrqYslp)
+[三毛机场注册链接](https://gw-1.smjc2.com/#/register?code=zP6hpbpa)
 
 
 ---
@@ -165,7 +165,7 @@ Hysteria协议机场。
 
 |机场|类型|特点|注册链接|
 |-|-|-|-|
-|三毛机场|中转|超低价格|[注册](https://a.smjcgw.com/#/register?code=YgrqYslp)|
+|三毛机场|中转|超低价格|[注册](https://gw-1.smjc2.com/#/register?code=zP6hpbpa)|
 |飞兔云|中转|高速稳定|[注册](https://666.xn--h5qy75o.vip/#/register?code=wZDomyK1)|
 |SpeedCAT闪电猫|IPLC|全专线|[注册](https://webinv02.sc-aff.cc/auth/register?code=sY44X9Ve)|
 |星辰VPN|中转|全球节点|[注册](https://c.xcvpn.me/#/register?code=TKcDFUEO)|
