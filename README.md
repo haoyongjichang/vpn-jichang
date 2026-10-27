@@ -48,7 +48,7 @@
 
 注册链接：
 
-[SpeedCAT注册链接](https://webinv02.sc-aff.cc/auth/register?code=sY44X9Ve)
+[SpeedCAT注册链接](https://a.wwaann.com/?s=speedcat)
 
 
 ---
@@ -66,7 +66,7 @@
 
 注册链接：
 
-[龙猫云注册链接](https://lm04.lmvipaff.net/register?aff=A1zuvjVF)
+[龙猫云注册链接](https://a.wwaann.com/?s=totorocloud)
 
 
 ---
@@ -83,7 +83,7 @@
 
 注册链接：
 
-[青云梯注册链接](https://qytcc01.qingyunti.pro/register?aff=eIQ45COF)
+[青云梯注册链接](https://a.wwaann.com/?s=qingyunti)
 
 
 ---
@@ -101,7 +101,7 @@ IEPL/IPLC 高性价比机场。
 
 注册链接：
 
-[扬帆云注册链接](https://ml.yfqz1.net/register?code=ahq8ed6M)
+[扬帆云注册链接](https://a.wwaann.com/?s=yangfancloud)
 
 ---
 
@@ -120,7 +120,7 @@ IEPL/IPLC 高性价比机场。
 
 注册链接：
 
-[三毛机场注册链接](https://gw-1.smjc2.com/#/register?code=zP6hpbpa)
+[三毛机场注册链接](https://a.wwaann.com/?s=smjc)
 
 
 ---
@@ -138,7 +138,7 @@ IEPL/IPLC 高性价比机场。
 
 注册链接：
 
-[飞兔云注册链接](https://666.xn--h5qy75o.vip/#/register?code=wZDomyK1)
+[飞兔云注册链接](https://a.wwaann.com/?s=feitucloud)
 
 
 ---
@@ -155,7 +155,7 @@ Hysteria协议机场。
 
 注册链接：
 
-[超悦机场注册链接](https://www.chaoyue.shop/#/register?code=IFP5Hc3D)
+[超悦机场注册链接](https://a.wwaann.com/?s=chaoyue)
 
 
 ---
@@ -165,29 +165,29 @@ Hysteria协议机场。
 
 |机场|类型|特点|注册链接|
 |-|-|-|-|
-|三毛机场|中转|超低价格|[注册](https://gw-1.smjc2.com/#/register?code=zP6hpbpa)|
-|飞兔云|中转|高速稳定|[注册](https://666.xn--h5qy75o.vip/#/register?code=wZDomyK1)|
-|SpeedCAT闪电猫|IPLC|全专线|[注册](https://webinv02.sc-aff.cc/auth/register?code=sY44X9Ve)|
-|星辰VPN|中转|全球节点|[注册](https://c.xcvpn.me/#/register?code=TKcDFUEO)|
-|超悦机场|Hysteria|低延迟|[注册](https://www.chaoyue.shop/#/register?code=IFP5Hc3D)|
-|纸巾云|中转|性价比|[注册](https://okt.getpapercloud.xyz/#/register?code=Qpzmcbue)|
-|龙猫云|IPLC|高速稳定|[注册](https://lm04.lmvipaff.net/register?aff=A1zuvjVF)|
-|FASTLINK|IPLC/中转|高端线路|[注册](https://flafflnk01.flaff9.cc/auth/register?code=kJu02mSq)|
-|飞天猪|IPLC|专线机场|[注册](https://fliggycloud.cc/#/register?code=6IjPKQRn)|
-|扬帆云|IEPL/IPLC|综合线路|[注册](https://ml.yfqz1.net/register?code=ahq8ed6M)|
-|Anin Cloud|中转|高性价比|[注册](https://my.faster.pw/?panel=register&invite=m9MgKP2C)|
-|呆鹅云|中转|流媒体|[注册](https://gsg.gosillygoose.online/#/register?code=LnLYGDTC)|
-|NieRCloud尼尔云|特色机场|主题机场|[注册](https://board.cloudnier.com/#/register?code=d8G6yPJI)|
-|600ML矿泉水|中转|ChatGPT支持|[注册](https://03c.600mld.cc/#/register?code=Xmcptokj)|
-|苏打云|流量计费|不限时间|[注册](https://h.sudacloud.top/#/register?code=zkwx66xc)|
-|Tannel中继网络|中继|全球网络|[注册](https://tannel.xn--6kro9vzxa373b.com//auth/register?code=TVVt)|
-|三月七|IEPL|稳定线路|[注册](https://xn--7gql113q.com/#/register?code=o5LuwmSM)|
-|瑶瑶专线|IEPL|游戏优化|[注册](https://yyssr.app/auth/register?code=9UtFYc)|
-|狗狗云|VPN|高速连接|[注册](http://msvpn.gougouvpn.xyz:88/index.php#/register?code=R76qd2cO)|
-|耐思云|中转|ChatGPT支持|[注册](https://nicecloud.io/#/register?code=lkT25V85)|
-|Moluo墨络云|全球节点|低价高速|[注册](https://moluo.fun/#/register?code=gvqlnyDl)|
-|NiceDuck|中转|Emby资源|[注册](https://my.niceduck.io/#/register?code=rEtm90vk)|
-|XXAI|AI优化|AI专线|[注册](https://xxai.onelink.me/4TP5/6u8koqvm?invite_code=IibxR86Z)|
+|三毛机场|中转|超低价格|[注册](https://a.wwaann.com/?s=smjc)|
+|飞兔云|中转|高速稳定|[注册](https://a.wwaann.com/?s=feitucloud)|
+|SpeedCAT闪电猫|IPLC|全专线|[注册](https://a.wwaann.com/?s=speedcat)|
+|星辰VPN|中转|全球节点|[注册](https://a.wwaann.com/?s=xcvpn)|
+|超悦机场|Hysteria|低延迟|[注册](https://a.wwaann.com/?s=chaoYue)|
+|纸巾云|中转|性价比|[注册](https://a.wwaann.com/?s=papercloud)|
+|龙猫云|IPLC|高速稳定|[注册](https://a.wwaann.com/?s=totorocloud)|
+|FASTLINK|IPLC/中转|高端线路|[注册](https://a.wwaann.com/?s=fastlink)|
+|飞天猪|IPLC|专线机场|[注册](https://a.wwaann.com/?s=fliggycloud)|
+|扬帆云|IEPL/IPLC|综合线路|[注册](https://a.wwaann.com/?s=yangfancloud)|
+|Anin Cloud|中转|高性价比|[注册](https://a.wwaann.com/?s=anincloud)|
+|呆鹅云|中转|流媒体|[注册](https://a.wwaann.com/?s=gosillygoose)|
+|NieRCloud尼尔云|特色机场|主题机场|[注册](https://a.wwaann.com/?s=niercloud)|
+|600ML矿泉水|中转|ChatGPT支持|[注册](https://a.wwaann.com/?s=smjc)|
+|苏打云|流量计费|不限时间|[注册](https://a.wwaann.com/?s=smjc)|
+|Tannel中继网络|中继|全球网络|[注册](https://a.wwaann.com/?s=smjc)|
+|三月七|IEPL|稳定线路|[注册](https://a.wwaann.com/?s=sanyueqi)|
+|瑶瑶专线|IEPL|游戏优化|[注册](https://a.wwaann.com/?s=smjc)|
+|狗狗云|VPN|高速连接|[注册](https://a.wwaann.com/?s=smjc)|
+|耐思云|中转|ChatGPT支持|[注册](https://a.wwaann.com/?s=smjc)|
+|Moluo墨络云|全球节点|低价高速|[注册](https://a.wwaann.com/?s=smjc)|
+|NiceDuck|中转|Emby资源|[注册](https://a.wwaann.com/?s=smjc)|
+|XXAI|AI优化|AI专线|[注册](https://a.wwaann.com/?s=smjc)|
 
 
 ---
